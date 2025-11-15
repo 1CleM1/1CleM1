@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/clemens-beese-295634369/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am studying Digital Infrastructure and Cyber Security at NTNU in Trondheim. I work
+I am studying Digital Infrastructure and Cyber Security at NTNU in Trondheim.
 
 ## Objective
 
