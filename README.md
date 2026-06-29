@@ -6,7 +6,7 @@ I am studying Digital Infrastructure and Cyber Security at NTNU in Trondheim.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to learn in this field and continue expanding my expertise.
+My journey in computer science has led me to develope a passion for cybersecurity, and I am now eager to learn in this field and continue expanding my expertise.
 
 <!----
 
